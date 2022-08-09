@@ -31,13 +31,22 @@ sudo make install
 ```
 
 
+<br>
+<br>
+<br>
+### 2) ROS용 freenect_stack 패키지를 설치
+* 시작 전 catkin 작업 공간 설정을 확인하고 한다.
 
-
-
-
-
-
-
+<br>
+ * catkin_ws/src 폴더
+```
+git clone https://github.com/ros-drivers/freenect_stack.git
+git clone https://github.com/ros-perception/image_common.git
+git clone https://github.com/ros-drivers/rgbd_launch.git
+git clone https://github.com/ros-perception/vision_opencv.git
+git clone https://github.com/ros-perception/image_pipeline.git
+git clone https://github.com/ros/geometry2.git
+```
 
 
 
