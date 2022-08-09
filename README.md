@@ -102,6 +102,33 @@ rosrun rviz rviz
 <img src = "https://user-images.githubusercontent.com/94280596/183601073-89c3be8d-3c58-47aa-b1f4-fc55bad5e170.png">
 
 
+<br>
+
+
+
+#### [ 2. Fixed Frame -> camera_depth_frame 변경 ]
+
+<img src = "https://user-images.githubusercontent.com/94280596/183601612-aa2f7ba2-0d2b-422d-8317-77df25375e97.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
