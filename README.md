@@ -130,8 +130,12 @@ rosrun rviz rviz
 
 ### 실행 결과
 
+#### [ 컬러 카메라 ]
+<img src = "https://user-images.githubusercontent.com/94280596/183603438-49c33581-efb3-434c-8a7c-1f4bbdad0a7d.png">
 
 
+#### [ 깊이 카메라 ]
+<img src = "https://user-images.githubusercontent.com/94280596/183603065-eedddd43-3225-4531-98ae-20f92d38cc16.png">
 
 
 
