@@ -44,13 +44,7 @@ sudo make install
 
 ### 2) ROS용 freenect_stack 패키지를 설치
 * 시작 전 catkin 작업 공간 설정을 확인하고 한다.
-
-
-<br>
-
-
-
- * catkin_ws/src 폴더
+* catkin_ws/src 폴더
 ```
 git clone https://github.com/ros-drivers/freenect_stack.git
 git clone https://github.com/ros-perception/image_common.git
