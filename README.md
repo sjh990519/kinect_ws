@@ -81,8 +81,7 @@ catkin_make
 roslaunch freenect_launch freenect.launch depth_registration:=true
 ```
 
-<br><br>
-
+<br>
 
 
 #### [ Desktop ]
