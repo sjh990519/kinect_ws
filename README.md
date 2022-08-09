@@ -39,6 +39,9 @@ sudo make install
 <br>
 <br>
 <br>
+
+
+
 ### 2) ROS용 freenect_stack 패키지를 설치
 * 시작 전 catkin 작업 공간 설정을 확인하고 한다.
 
