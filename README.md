@@ -58,6 +58,45 @@ git clone https://github.com/ros/geometry2.git
 
 
 
+<br>
+<br>
+<br>
+
+
+
+### 3) 모든 패키지에 대한 종속성 확인
+```
+cd ..
+```
+```
+rosdep install --from-paths src --ignore-src -r -y
+catkin_make
+```
+
+
+
+### 4) Kinect 실행
+#### [ Raspberry Pi ]
+```
+roslaunch freenect_launch freenect.launch depth_registration:=true
+```
+
+<br><br>
+
+
+
+#### [ Desktop ]
+```
+rosrun rviz rviz
+```
+
+
+
+
+
+
+
+
 
 
 
