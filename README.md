@@ -112,8 +112,13 @@ rosrun rviz rviz
 
 
 
+<br>
 
 
+
+#### [ 3. Camera -> Image Topic을 /camera/depth_registered/image 변경 ]
+
+<img src = "https://user-images.githubusercontent.com/94280596/183602277-f34e8714-9cad-4f17-b4a1-48f2ccabb6c5.png">
 
 
 
