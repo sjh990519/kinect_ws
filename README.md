@@ -47,6 +47,9 @@ sudo make install
 
 
 <br>
+
+
+
  * catkin_ws/src 폴더
 ```
 git clone https://github.com/ros-drivers/freenect_stack.git
