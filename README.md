@@ -75,6 +75,13 @@ catkin_make
 
 
 
+<br>
+<br>
+<br>
+
+
+
+
 ### 4) Kinect 실행
 #### [ Raspberry Pi ]
 ```
