@@ -96,10 +96,10 @@ roslaunch freenect_launch freenect.launch depth_registration:=true
 rosrun rviz rviz
 ```
 
+### 5) Rviz 설정
+#### [ 1. Add 클릭 후 camera 추가 ]
 
-
-
-
+<img src = "https://user-images.githubusercontent.com/94280596/183601073-89c3be8d-3c58-47aa-b1f4-fc55bad5e170.png">
 
 
 
