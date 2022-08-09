@@ -13,6 +13,8 @@ Raspberry Pi 4 ROS Noetic에서 Kinect를 사용
 <br>
 <br>
 <br>
+
+
 ### 1) Freenect 드라이버 및 Freenect_stack 설치 
 * Ros Noetic Desktop 이미지를 사용했다.
 * apt-get 빌드 버전이 오래되어 소스에서 libfreenect 드라이버를 빌드하는 것으로 했다.
